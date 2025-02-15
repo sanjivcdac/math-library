@@ -4,7 +4,7 @@
   <groupId>com.example.mathlib</groupId>
   <artifactId>math-library</artifactId>
   <packaging>jar</packaging>
-  <version>1.1</version>
+  <version>1.0.1</version>
 
   <name>math-library</name>
   <url>http://maven.apache.org</url>
